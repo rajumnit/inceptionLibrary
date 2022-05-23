@@ -1,0 +1,28 @@
+{
+  "id": "000001811791702500000180e8544791",
+  "time": 1653160979852000,
+  "status": "AVAILABLE",
+  "source": "Android",
+  "http_status": "400",
+  "pricing": {
+    "totalCost": "1451.0",
+    "currencyCode": "USD"
+  },
+  "itinerary": {
+    "key": "41",
+    "meta": {
+      "supplier": "Sabre",
+      "carrier": "Alaska",
+      "flightNumber": "338"
+    }
+  },
+  "cabinName": "Premium Economy",
+  "departingDate": "05/11/2022",
+  "URL": "/flight-booking_",
+  "error": "false",
+  "userId": "user:216194",
+  "originAirport": "58",
+  "destinationAirport": "60",
+  "requestId": "a2ff5d4a-bbc2-45b3-9a5a-fa6ff3a6405d",
+  "requestTime": "414000.0"
+}
